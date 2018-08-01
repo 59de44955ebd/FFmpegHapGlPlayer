@@ -1,12 +1,11 @@
 # FFmpegHapGlPlayer
 
-mattbeghin's "FFmpegHapGlPlayer" as "plug & play" VS2017 project.
+This repo contains "FFmpegHapGlPlayer" as VS2017 project, and includes all required binary libs and include files to build for x64 Release. If you want to build for Win32 and/or Debug, you have to configure and compile the needed libs (ffmpeg, SDL2, snappy) yourself.
 
-This repo contains "FFmpegHapGlPlayer" as VS2017 project, and includes all required binary libs and include files to build for x64 Release.
-If you want to build for Win32 and/or Debug, you have to configure and compile the needed libs (ffmpeg, SDL2, snappy) yourself.
+Matt's original FFmpegHapGlPlayer repo:
+https://github.com/mattbeghin/FFmpegHapGlPlayer
 
-
-Here Matt's original README:
+Original README:
 
 Very simple cross-platform code to playback a HAP video file using FFMPEG for demuxing and HapDecode/OpenGL for decoding.
 It handles Hap, Hap Alpha, HapQ but not HapQ+Alpha since it's not recognized by ffmpeg today (july 2018).

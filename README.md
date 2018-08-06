@@ -1,6 +1,6 @@
 # FFmpegHapGlPlayer
 
-This repo contains "FFmpegHapGlPlayer" as VS2017 project, and includes all required binary libs and include files to build for x64 Release. If you want to build for Win32 and/or Debug, you have to configure and compile the needed libs (ffmpeg, SDL2, snappy) yourself.
+This repo contains "[FFmpegHapGlPlayer](https://github.com/mattbeghin/FFmpegHapGlPlayer)" as VS2017 project, and includes all required binary libs and include files to build for x64 Release. If you want to build for Win32 and/or Debug, you have to configure and compile the needed libs (ffmpeg, SDL2, snappy) yourself.
 
 Matt's original FFmpegHapGlPlayer repo:
 https://github.com/mattbeghin/FFmpegHapGlPlayer
